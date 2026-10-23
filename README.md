@@ -2,7 +2,7 @@
 
 An end-to-end data warehouse project built on the **Prague financial dataset**. Raw banking data is extracted, transformed, and loaded into a MySQL star schema, then explored through an interactive Streamlit dashboard.
 
-![Financial Dashboard Demo](demo.gif)
+<img src="demo.gif" alt="Financial Dashboard Demo" width="100%" />
 
 ---
 
